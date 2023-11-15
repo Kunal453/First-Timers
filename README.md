@@ -1,2 +1,2 @@
 # First-Timers
-nothing but do your self 
+# This is my first time use
